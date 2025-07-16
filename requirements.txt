@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+jose
+python-jose
+cryptography
+python-multipart
+scikit-learn
+pandas
+fastapi-prometheus
