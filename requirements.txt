@@ -8,4 +8,4 @@ cryptography
 python-multipart
 scikit-learn
 pandas
-fastapi-prometheus
+starlette-prometheus
